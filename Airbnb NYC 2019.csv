@@ -1,20 +1,24 @@
-# Airbnb NYC 2019 Dataset
+# Python Capstone EDA Project
 
-This dataset contains information about Airbnb bookings in New York City for the year 2019.
+Welcome to the Python Capstone Exploratory Data Analysis (EDA) Project repository!
 
-## Dataset Description
+## Overview
+This repository showcases comprehensive data analysis techniques using Python. The project delves into real-world datasets, employing various Python modules for thorough data analysis, visualization, and interpretation.
 
-The dataset includes information such as listing IDs, host IDs, neighbourhoods, room types, price, number of reviews, etc.
+## Features
+- Explore real-world datasets
+- Utilize various Python modules for data analysis
+- Gain practical experience in data exploration and visualization
 
-## File Structure
-
-- **data**
-  - *airbnb_nyc_2019.csv*: Main dataset file.
-- **scripts**
-  - *data_analysis.ipynb*: Jupyter Notebook for data analysis and exploration.
+## Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/Python-Capstone-EDA-Project.git`
+2. Navigate to the project directory: `cd Python-Capstone-EDA-Project`
 
 ## Usage
+Use this repository to investigate the elements of data analysis, acquire real-world experience, and apply insightful knowledge to your own projects and educational pursuits.
 
-1. Clone this repository.
-2. Navigate to the `scripts` folder and open `data_analysis.ipynb` to explore the dataset.
-3. You can also directly use the `airbnb_nyc_2019.csv` file for your analysis.
+## Contributors
+- [Your Name](https://github.com/your-username)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
