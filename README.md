@@ -1,2 +1,18 @@
-# airbnb-bookings-analysis-EDA-project
-This repository contains a Python Capstone EDA Project showcasing comprehensive data analysis techniques using Python. It explores real-world datasets, employing various Python modules for thorough data analysis, visualization, and interpretation.
+# NYC Airbnb Bookings Analysis Capstone EDA Project
+
+Welcome to the Python Capstone Exploratory Data Analysis (EDA) Project repository!
+
+## Overview
+This repository showcases comprehensive data analysis techniques using Python. The project delves into real-world datasets, employing various Python modules for thorough data analysis, visualization, and interpretation.
+
+## Features
+- Explore real-world datasets
+- Utilize various Python modules for data analysis
+- Gain practical experience in data exploration and visualization
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/airbnb-bookings-analysis-EDA-project.git`
+2. Navigate to the project directory: `cd airbnb-bookings-analysis-EDA-project`
+
+## Usage
+Use this repository to investigate the elements of data analysis, acquire real-world experience, and apply insightful knowledge to your own projects and educational pursuits.
