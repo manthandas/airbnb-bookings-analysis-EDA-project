@@ -1,3 +1,5 @@
+![image-airbnb](https://github.com/manthandas/airbnb-bookings-analysis-EDA-project/assets/115862898/fe5c5624-df42-4bba-9970-c018d695cb00)
+
 # Airbnb Bookings Analysis 
 Welcome to the NYC Airbnb Bookings Analysis of 2019 Python Capstone Exploratory Data Analysis (EDA) Project repository.
 
