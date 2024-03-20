@@ -26,7 +26,7 @@ This repository showcases comprehensive data analysis techniques using Python. T
 
 
 
-## ** Python libraries used:**
+## ** Python libraries used: **
 
 * Pandas
 * NumPy
