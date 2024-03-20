@@ -11,7 +11,7 @@ This repository showcases comprehensive data analysis techniques using Python. T
 - Gain practical experience in data exploration and visualization
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/airbnb-bookings-analysis-EDA-project.git`
+1. Clone the repository: `git clone https://github.com/manthandas/airbnb-bookings-analysis-EDA-project.git`
 2. Navigate to the project directory: `cd airbnb-bookings-analysis-EDA-project`
 
 ## Usage
