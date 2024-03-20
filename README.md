@@ -1,6 +1,5 @@
-# NYC Airbnb Bookings Analysis Capstone EDA Project
-
-Welcome to the Python Capstone Exploratory Data Analysis (EDA) Project repository!
+# NYC Airbnb Bookings Analysis 
+Welcome to the Python Capstone Exploratory Data Analysis (EDA) Project repository on NYC Airbnb Bookings Analysis 
 
 ## Overview
 This repository showcases comprehensive data analysis techniques using Python. The project delves into real-world datasets, employing various Python modules for thorough data analysis, visualization, and interpretation.
